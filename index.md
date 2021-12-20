@@ -13,8 +13,4 @@ Education
   **IIT (BHU), Varanasi**\
   *(2018-Present)*
   
-- Bachelor's of Science\
-  Data Science and Programming\
-  **IIT Madras**\
-  *(2020 - Present)*
 
